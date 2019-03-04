@@ -18,9 +18,9 @@ h1 {
 /*title*/
 strong {
   text-transform: uppercase;
+  text-align: center;
   font-size: 1.5em;
   color: #33485e;
-  text-align: center;
 }
 
 /*section title*/
