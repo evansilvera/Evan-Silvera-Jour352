@@ -35,8 +35,8 @@ div #title {
 /*section title*/
 div #sectionheader {
   font-size: 1.5em;
-  background-color: :#33485e;
-  color: #white;
+  background-color: #33485e;
+  color: #fff;
   text-transform: uppercase;
   font-weight:400;
   margin-bottom: 10px;
