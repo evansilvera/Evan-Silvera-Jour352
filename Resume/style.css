@@ -8,11 +8,15 @@ body {
 }
 
 /*name banner*/
-h1 {
+div #name {
   font-size: 3em;
   text-transform: uppercase;
   color: #33485e;
   text-align: center;
+  border-style: 1px;
+  border-color: #33485e;
+  width: 60%;
+  margin: 0 auto;
 }
 
 /*title*/
