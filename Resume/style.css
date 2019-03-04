@@ -1,10 +1,20 @@
 /*Styles for my resume*/
 
-body {
+div #container {
   font-family: "Open Sans", "Arial", Sans-Serif;
   font-size: 1em;
   color: #444;
   font-weight: 400;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+div #menu {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  display: inline;
 }
 
 /*name banner*/
@@ -20,15 +30,18 @@ div #name {
 }
 
 /*title*/
-strong {
+div #title {
   text-transform: uppercase;
   text-align: center;
   font-size: 1.5em;
   color: #33485e;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  font-weight: 600;
 }
 
 /*section title*/
-h2 {
+div #sectionheader {
   font-size:1.5em;
   background:#33485e;
   color: #fff;
@@ -37,25 +50,32 @@ h2 {
 }
 
 /*job title*/
-h3 {
+div #jobtitle {
   font-weight: 600;
   font-size:1.5em;
 }
 
 /*job organization*/
-h4 {
+div #organization {
 font-weight: 400;
-font-size:1.5em;
+font-size:1.25em;
 }
 
 /*date*/
-h5 {
+div #date {
   font-weight: 400;
   font-style:italic;
   font-size:1em;
+  margin-top: 2px;
 }
 
 /*contact info, skills and education*/
-li {
+div #degrees {
   font-size:1em;
+  margin-top: 5px;
+
+}
+
+div #do {
+  margin-top: 5px;
 }
