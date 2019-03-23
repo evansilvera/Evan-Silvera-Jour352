@@ -1,0 +1,29 @@
+#content {
+  width: 900px;
+  margin: 0 auto;
+}
+
+#banner {
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: Helvetica, sans-serif;
+  font-size: 30px;
+}
+
+h2 {
+  font-family: Helvetica, sans-serif;
+  font-size: 14pt;
+  font-style: italic;
+}
+
+p {
+  font-family: Georgia, serif;
+  size: 13px;
+}
+
+blockquote {
+  font-size: 18px;
+  font-style: italic;
+}
