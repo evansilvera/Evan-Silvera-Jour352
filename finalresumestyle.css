@@ -32,3 +32,34 @@ div #date {
   font-size: 1em;
   font-style: italic;
 }
+
+/*about me section*/
+div #aboutmetitle {
+  font: Helvetica;
+  font-size: 2em;
+  color: red;
+}
+
+.about {
+  text-align: center;
+  font-size: 1.75em;
+  text-transform: uppercase;
+  font-weight: bold;
+  border: 2px solid; background-color: #005b7f;
+  font-family: Helvetica;
+}
+
+.text {
+  font-family: Helvetica;
+  color: #black;
+  font-size:1.15em;
+}
+
+.social {
+  text-align: center;
+  font-size: 1.75em;
+  text-transform: uppercase;
+  font-weight: bold;
+  border: 2px solid; background-color: #005b7f;
+  font-family: Helvetica;
+}
