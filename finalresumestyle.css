@@ -13,7 +13,7 @@ div #sectionheader {
   font-size: 1.75em;
   text-transform: uppercase;
   font-weight: bold;
-  border: 2px solid; background-color: #005b7f
+  border: 2px solid; background-color: #005b7f;
 }
 
 /*job title*/
@@ -55,11 +55,10 @@ div #aboutmetitle {
   font-size:1.15em;
 }
 
-.social {
+div #sm {
   text-align: center;
-  font-size: 1.75em;
+  font-size: 1em;
   text-transform: uppercase;
   font-weight: bold;
-  border: 2px solid; background-color: #005b7f;
-  font-family: Helvetica;
+  border: 2px solid; background-color:#005b7f;
 }
