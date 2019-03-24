@@ -56,3 +56,12 @@ div #aboutmetitle {
   color: #black;
   font-size:1.15em;
 }
+
+/*extra credit*/
+div #socialmedia {
+  text-align: center;
+  font-size: 1.75em;
+  text-transform: uppercase;
+  font-weight: bold;
+  border: 2px solid; background-color: #005b7f;
+}
