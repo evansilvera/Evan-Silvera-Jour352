@@ -23,11 +23,13 @@ div #jobtitle {
   font-weight: bold;
 }
 
+/*job organization*/
 div #organization {
   font-size: 1.15em;
   font-weight: bold;
 }
 
+/*date*/
 div #date {
   font-size: 1em;
   font-style: italic;
@@ -53,12 +55,4 @@ div #aboutmetitle {
   font-family: Helvetica;
   color: #black;
   font-size:1.15em;
-}
-
-div #sm {
-  text-align: center;
-  font-size: 1em;
-  text-transform: uppercase;
-  font-weight: bold;
-  border: 2px solid; background-color:#005b7f;
 }
