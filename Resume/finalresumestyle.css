@@ -66,11 +66,45 @@ div #aboutmetitle {
   font-family: Helvetica;
 }
 
-/*extra credit*/
-div #socialmedia {
+.jobtitle {
+  color: ##000000;
+  font-size: 1.15em;
+  font-weight: bold;
+}
+
+.organization {
+  font-size: 1.15em;
+  font-weight: bold;
+}
+
+.date {
+  font-size: 1em;
+  font-style: italic;
+}
+
+.education {
   text-align: center;
   font-size: 1.75em;
   text-transform: uppercase;
   font-weight: bold;
   border: 2px solid; background-color: #005b7f;
+  font-family: Helvetica;
+}
+
+.skills {
+  text-align: center;
+  font-size: 1.75em;
+  text-transform: uppercase;
+  font-weight: bold;
+  border: 2px solid; background-color: #005b7f;
+  font-family: Helvetica;
+}
+/*extra credit*/
+.socialmedia {
+  text-align: center;
+  font-size: 1.75em;
+  text-transform: uppercase;
+  font-weight: bold;
+  border: 2px solid; background-color: #005b7f;
+  font-family: Helvetica;
 }
