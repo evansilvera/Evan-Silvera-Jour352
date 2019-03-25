@@ -1,14 +1,25 @@
+/*headline style*/
 h1 {
-  font-family: "Georgia";
-  font-size: 28px;
-}
-
-h2 {
   font-family: Georgia, serif;
-  font-size: 18px;
+  font-size: 28px;
 }
 
 body {
   font-family: Helvetica, Arial, Sans-Serif;
-  font-size: 12px;
+  font-size: 16px;
 }
+
+blockquote {
+  font-style:italic;
+  color: maroon;
+  font-weight:bold;
+}
+
+.h2 {
+  font-size: 20px;
+  font-family: Georgia, serif;
+}
+
+#content {
+  text-align: center;
+  width: 100%;
