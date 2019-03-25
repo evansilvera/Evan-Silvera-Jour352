@@ -1,12 +1,12 @@
 /*headline style*/
 h1 {
   font-family: Georgia, serif;
-  font-size: 28px;
+  font-size: 24px;
 }
 
 body {
   font-family: Helvetica, Arial, Sans-Serif;
-  font-size: 16px;
+  font-size: 12px;
 }
 
 blockquote {
@@ -16,7 +16,7 @@ blockquote {
 }
 
 .h2 {
-  font-size: 20px;
+  font-size: 18px;
   font-family: Georgia, serif;
 }
 
