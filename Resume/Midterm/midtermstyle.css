@@ -1,0 +1,45 @@
+/*headline style*/
+h1 {
+  font-family: Georgia, serif;
+  font-size: 24px;
+}
+
+body {
+  font-family: Helvetica, Arial, Sans-Serif;
+  font-size: 12px;
+}
+
+blockquote {
+  font-style:italic;
+  color: maroon;
+  font-weight:bold;
+}
+
+.h2 {
+  font-size: 18px;
+  font-family: Georgia, serif;
+}
+
+.name {
+  font-size:18px;
+  font-weight: bold;
+}
+
+.info {
+  font-style: italic;
+}
+
+.q {
+  font-weight: bold;
+}
+
+#end {
+  padding-top: 5px;
+  padding-right: 30px;
+  padding-bottom: 5px;
+  padding-left: 30px;
+}
+
+#content {
+  text-align: center;
+  width: 100%;
