@@ -1,0 +1,50 @@
+#container {
+  font-family: Helvetica, Arial, Sans-serif;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.headline {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Helvetica, Arial, Sans-Serif;
+}
+
+.byline {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 25px;
+  font-family: Helvetica, Arial, Sans-Serif;
+}
+
+.chapter {
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Helvetica, Arial, Sans-Serif;
+}
+
+.caption {
+  text-align: left;
+  font-size: 16px;
+  font-weight: lighter;
+  font-style: italic;
+  font-family: Helvetica, Arial, Sans-Serif;
+}
+
+.image {
+  display: block;
+  margin: 0 auto;
+}
+
+p {
+  font-family: Helvetica, Arial, Sans-Serif;
+  font-size: 18px;
+}
+
+footer {
+  color: white;
+  background-color: black;
+  text-align: center;
+}
