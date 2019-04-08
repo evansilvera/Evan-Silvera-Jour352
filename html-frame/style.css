@@ -27,6 +27,12 @@
   font-family: Helvetica, Arial, Sans-Serif;
 }
 
+#container {
+  font-family: Helvetica, Arial, Sans-serif
+  width: 1000px;
+  margin: 0 auto;
+}
+
 p {
   font-family: Helvetica, Arial, Sans-Serif;
   font-size: 18px;
