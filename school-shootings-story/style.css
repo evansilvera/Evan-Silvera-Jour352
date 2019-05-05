@@ -1,0 +1,158 @@
+#container {
+  font-family: Helvetica, Arial, Sans-serif;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.hero-image {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.stars {
+  width: 15px;
+  margin: 0 auto;
+}
+
+.textstar {
+  width: 15px;
+}
+
+.star-top {
+  width: 15px;
+}
+
+.introtext {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.25em;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.stack-image {
+  width:100%;
+  max-width:900px;
+  margin:0 auto;
+  padding-top:30px;
+}
+
+.footer {
+  height: 100px;
+  padding: 25px;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #e0162b;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #999;
+}
+
+a:hover {
+  color: #0052a5;
+}
+
+.bg-dark {
+  background:#000 !important;
+}
+
+ul.navbar-nav {
+ margin-left:50%;
+}
+
+.navbar {
+ font-family: 'Montserrat', sans-serif;
+}
+
+.headline {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 3em;
+  font-weight: 700;
+}
+
+.byline {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1em;
+  font-weight: 700;
+}
+
+.chapter {
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Helvetica, Arial, Sans-Serif;
+}
+
+.caption {
+   width:100%;
+   max-width:900px;
+   margin: 0 auto;
+   padding-bottom:30px;
+   font-family: 'Montserrat', sans-serif;
+   color:#999;
+}
+
+.graphic-container {
+  font-size: 2em;
+  padding-top:30px;
+  padding-bottom:30px;
+  border-top:1px solid #cdcdcd;
+  border-bottom:1px solid #cdcdcd;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0 auto;
+}
+
+h2 {
+  font-size: 1em;
+}
+
+.image {
+  display: block;
+  margin: 0 auto;
+}
+
+.red {
+ color: #e0162b;
+}
+
+.blue {
+ color: #0052a5;
+}
+
+body {
+  font-family: 'PT Serif', serif;
+  text-decoration: none;
+}
+
+p {
+  font-family: 'PT Serif';
+  color: black;
+  font-size: 1em;
+  text-align: left;
+  line-height: 180%;
+}
+
+p1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2em;
+  font-weight: 700;
+  padding-top: 20px;
+  width: 100%
+}
+
+footer {
+  color: white;
+  background-color: black;
+  text-align: center;
+}
