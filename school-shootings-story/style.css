@@ -104,7 +104,6 @@ ul.navbar-nav {
 }
 
 .graphic-container {
-  font-size: 2em;
   padding-top:30px;
   padding-bottom:30px;
   border-top:1px solid #cdcdcd;
@@ -114,7 +113,8 @@ ul.navbar-nav {
 }
 
 h2 {
-  font-size: 1em;
+  font-size: 2em;
+  font-family:'Montserrat', sans-serif;
 }
 
 .image {
@@ -146,6 +146,14 @@ p {
 p1 {
   font-family: "Montserrat", sans-serif;
   font-size: 2em;
+  font-weight: 700;
+  padding-top: 20px;
+  width: 100%
+}
+
+p2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1em;
   font-weight: 700;
   padding-top: 20px;
   width: 100%
