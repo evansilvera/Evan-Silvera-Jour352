@@ -1,6 +1,6 @@
 #container {
   font-family: Helvetica, Arial, Sans-serif;
-  width: 1000px;
+  width: 100%;
   margin: 0 auto;
 }
 
@@ -8,6 +8,7 @@
   width: 100%;
   max-width: 900px;
   margin: 0 auto;
+  height: auto;
 }
 
 .stars {
@@ -71,6 +72,7 @@ ul.navbar-nav {
 
 .navbar {
  font-family: 'Montserrat', sans-serif;
+ width: 100%;
 }
 
 .headline {
@@ -148,7 +150,7 @@ p1 {
   font-size: 2em;
   font-weight: 700;
   padding-top: 20px;
-  width: 100%
+  width: 100%;
 }
 
 p2 {
