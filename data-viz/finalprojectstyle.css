@@ -1,134 +1,159 @@
 #container {
-  width: 100%;
-  margin: 0 auto;
-  padding-left: 35px;
-  padding-right: 35px;
+	width: 100%;
+	margin: 0 auto;
+	padding-left: 35px;
+	padding-right: 35px;
 }
 
 body {
-  background-color: #111923;
+	background-color: #111923;
 }
 
 .byline {
-  margin: 0 auto;
-  width: 100%;
-  max-width: 2000px;
-  color: #ffac13;
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 30px;
+	margin: 0 auto;
+	width: 100%;
+	max-width: 2000px;
+	color: #ffac13;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 30px;
 }
 
 .subhead {
-  margin: 0 auto;
-  width: 100%;
-  max-width: 2000px;
-  color: #ffac13;
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 24px;
-  font-weight: lighter;
+	margin: 0 auto;
+	width: 100%;
+	max-width: 2000px;
+	color: #ffac13;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 24px;
+	font-weight: lighter;
 }
 
 .hero-image {
-  width: 100%;
-  max-width: 2000px;
-  margin: 0 auto;
+	width: 100%;
+	max-width: 2000px;
+	margin: 0 auto;
 }
 
-
 h1 {
-  color: #111923;
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 65px;
-  -webkit-text-stroke: 1.5px #ffac13;
-  text-align: center;
-  font-weight: 550;
-  width: 100%;
-  letter-spacing: -1px;
+	color: #111923;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 65px;
+	-webkit-text-stroke: 1.5px #ffac13;
+	text-align: center;
+	font-weight: 550;
+	width: 100%;
+	letter-spacing: -1px;
 }
 
 p {
-  font-family: 'Roboto Slab', serif;
-  font-size: 18px;
-  color: white;
+	font-family: 'Roboto Slab', serif;
+	font-size: 18px;
+	color: white;
 }
 
 .chapter {
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 36px;
-  color: #ffac13;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 36px;
+	color: #ffac13;
 }
 
 .caption {
-  font-family: 'Roboto Slab', serif;
-  font-size: 16px;
-  color: #ffac13;
-  font-style: italic;
-  margin: 0 auto;
+	font-family: 'Roboto Slab', serif;
+	font-size: 16px;
+	color: #ffac13;
+	font-style: italic;
+	margin: 0 auto;
 }
 
 .chatter {
-  font-family: 'Roboto Slab', serif;
-  font-size: 18px;
-  color: #ffffff;
-  margin: 0 auto;
+	font-family: 'Roboto Slab', serif;
+	font-size: 16px;
+	color: #ffffff;
+	margin: 0 auto;
 }
 
-path.domain { fill: white; }
-.tick text { fill: white; }
-.c3-legend-item text { fill: grey;}
-
-.c3 .c3-axis-x path, .c3 .c3-axis-x line {
-stroke: white; //stroke: none;
+path.domain {
+	fill: white;
 }
 
-.c3 .c3-axis-y path, .c3 .c3-axis-y line {
- stroke: white; //stroke: none;
+.tick text {
+	fill: white;
+}
+
+.c3-legend-item text {
+	fill: grey;
+}
+
+.c3 .c3-axis-x path,
+.c3 .c3-axis-x line {
+	stroke: white; //stroke: none;
+}
+
+.c3 .c3-axis-y path,
+.c3 .c3-axis-y line {
+	stroke: white; //stroke: none;
 }
 
 h2 {
-  font-family: 'Roboto Slab', serif;
-  font-size: 28px;
-  color: white;
-  width: 100%
+	font-family: 'Roboto Slab', serif;
+	font-size: 28px;
+	color: white;
+	width: 100%
+}
+
+.vidcap {
+	font-family: 'Roboto Slab', serif;
+	font-size: 16px;
+	color: white;
+	width: 100%;
+	font-style: italic;
+}
+
+hr {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #ffac13;
+	width: 100%;
 }
 
 .bg-dark {
-  background: #111923 !important;
+	background: #111923 !important;
 }
 
 ul.navbar-nav {
- margin-left:50%;
+	margin-left: 50%;
 }
 
 .navbar {
- font-family: 'Roboto Condensed', sans-serif;
- width: 100%;
+	font-family: 'Roboto Condensed', sans-serif;
+	width: 100%;
 }
 
 .navicon {
-  width: 35px;
+	width: 35px;
 }
 
 .nav-link {
-  color: #ffac13 !important;
+	color: #ffac13 !important;
 }
 
 a {
-    text-decoration: none;
-  }
+	text-decoration: none;
+}
 
-  a:link {
-    color: #ffac13;
-    text-decoration: none;
-  }
+a:link {
+	color: #ffac13;
+	text-decoration: none;
+}
 
-  a:visited {
-    color: #ffac13;
-  }
+a:visited {
+	color: #ffac13;
+}
 
-  footer {
-    color: #111923;
-    background-color: #ffac13;
-    text-align: center;
-    font-family:'Roboto Condensed', sans-serif;
-  }
+footer {
+	color: #111923;
+	background-color: #ffac13;
+	text-align: center;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: bold;
+}
