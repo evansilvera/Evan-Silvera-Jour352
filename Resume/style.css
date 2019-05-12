@@ -1,4 +1,10 @@
 /*Styles for my resume*/
+div #container {
+  width: 100%;
+  max-width: 1200px;
+  padding: 50px;
+  text-align: left;
+}
 
 body {
   font-family: 'Open Sans', Arial, Sans-Serif;
