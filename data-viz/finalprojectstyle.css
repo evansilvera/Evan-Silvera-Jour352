@@ -59,10 +59,18 @@ p {
 }
 
 .caption {
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 18px;
-  color: #146eb4;
+  font-family: 'Roboto Slab', serif;
+  font-size: 16px;
+  color: #ffac13;
   font-style: italic;
+  margin: 0 auto;
+}
+
+.chatter {
+  font-family: 'Roboto Slab', serif;
+  font-size: 18px;
+  color: #ffffff;
+  margin: 0 auto;
 }
 
 path.domain { fill: white; }
@@ -77,21 +85,11 @@ stroke: white; //stroke: none;
  stroke: white; //stroke: none;
 }
 
-.graphtitle {
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 20px;
-  color: #146eb4;
-}
-
 h2 {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Roboto Slab', serif;
   font-size: 28px;
   color: white;
-}
-
-iframe {
-  max-width: 1000px;
-  min-width: 100px;
+  width: 100%
 }
 
 .bg-dark {
