@@ -7,24 +7,18 @@ body {
   font-weight: 400;
 }
 
-div #container {
-  width: 100%;
-  max-width: 1200px;
-  margn: 0 auto;
-  padding: 50px;
-}
-
 /*name banner*/
 div #name {
   font-size: 3em;
   text-transform: uppercase;
   color: #33485e;
-  text-align: center;
+  text-align: left;
   border: 1px solid #33485e;
   width: 60%;
   min-width: 300px;
   margin: 0 auto;
 }
+
 /*title*/
 div #title {
   text-transform: uppercase;
@@ -36,7 +30,7 @@ div #title {
 div #sectionheader {
   font-size: 1.5em;
   background-color: #33485e;
-  color: #fff;
+  color: #ffffff;
   text-transform: uppercase;
   font-weight: 400;
   margin-bottom: 10px;
